@@ -2,7 +2,7 @@
 # javascript-es6-modern-js-examples
 This repository includes examples related to modern js - es6
 
-## Below are the topics and the files to be reffered. :computer: :book: :writing_hand:
+## Below are the topics and the files to be referred. :computer: :book: :writing_hand:
 
 [_Variables - let and const_ ](https://github.com/priyadarshu/javascript-es6-modern-js-examples/blob/main/variables.js)
 
@@ -33,3 +33,8 @@ _Feel free to fork and star_ :handshake:
 
 
 
+**_Best Resources:_**
+
+- Versions of javascript prior to es6 (ECMA Script 6) https://medium.com/@dupski/what-major-new-features-were-in-each-javascript-version-what-version-should-i-target-25526c498687
+
+-  [You-Dont-Know-JS 2nd Edition](https://github.com/priyadarshu/You-Dont-Know-JS)
