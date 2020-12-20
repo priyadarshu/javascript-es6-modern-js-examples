@@ -27,16 +27,18 @@ This repository includes examples related to modern js - es6
 
 **_Bonus - It will also include the concept of Inheritance & Chaining Promises_**
 
-**_Created with_** :gift_heart:
+##
 
-_Feel free to fork and star_ :handshake:
-
-
-
-
-**_Best Resources:_** :book: :writing_hand:
+##### Best Resources:_** :book: :writing_hand:
 
 
 - [Versions of javascript prior to es6 (ECMA Script 6)](https://medium.com/@dupski/what-major-new-features-were-in-each-javascript-version-what-version-should-i-target-25526c498687)
 
 -  [You-Dont-Know-JS 2nd Edition](https://github.com/priyadarshu/You-Dont-Know-JS)
+
+##
+
+##
+**_Created with_** :gift_heart:
+
+_Feel free to fork and star_ :handshake:
