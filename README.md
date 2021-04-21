@@ -1,6 +1,6 @@
 #### Hi there! :wave: , thanks for visiting my repository -
 # javascript-es6-modern-js-examples
-This repository includes examples related to modern js - es6
+This repository includes examples related to modern js - es6 as well as basics of javascript
 
 ## Below are the topics and the files to be referred. :computer: :book: :writing_hand:
 
